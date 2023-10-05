@@ -30,4 +30,6 @@
 
 ![image](https://github.com/onlydev1ce3/S-DES/assets/145557897/dac618ce-c327-4fee-b1ac-49935de481c7)
 
+对于任意给定的明文分组，有可能会出现选择不同的密钥K_{i}\ne K_{j}加密得到相同密文C_n的情况。
+
 
