@@ -27,3 +27,7 @@
 ![image](https://github.com/onlydev1ce3/S-DES/assets/145557897/c98e0b02-aa88-4206-a7bc-17e75fd8fb62)
 
 第5关：封闭测试根据第4关的结果，进一步分析，对于你随机选择的一个明密文对，是不是有不止一个密钥Key？进一步扩展，对应明文空间任意给定的明文分组P_{n}，是否会出现选择不同的密钥K_{i}\ne K_{j}加密得到相同密文C_n的情况？
+
+![image](https://github.com/onlydev1ce3/S-DES/assets/145557897/dac618ce-c327-4fee-b1ac-49935de481c7)
+
+
